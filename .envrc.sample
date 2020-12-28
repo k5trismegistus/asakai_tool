@@ -1,0 +1,4 @@
+export TRELLO_API_KEY="trelloapikey",
+export TRELLO_API_SECRET="trelloapisecret"
+export TRELLO_BOARD="my_todo_board"
+export SLACK_WEBHOOK_URL="https://hooks.slack.com/services/my/slack/webhookurl"
