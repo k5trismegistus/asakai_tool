@@ -1,0 +1,6 @@
+import os
+
+TRELLO_API_KEY = os.getenv('TRELLO_API_KEY')
+TRELLO_API_SECRET = os.getenv('TRELLO_API_SECRET')
+TRELLO_BOARD = os.getenv('TRELLO_BOARD')
+SLACK_WEBHOOK_URL = os.getenv('SLACK_WEBHOOK_URL')
